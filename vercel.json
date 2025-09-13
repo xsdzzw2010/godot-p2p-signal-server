@@ -1,6 +1,0 @@
-{
-  "buildCommand": "npm install",
-  "outputDirectory": ".",
-  "devCommand": "node server.js",
-  "framework": "express"
-}
